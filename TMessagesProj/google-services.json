@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "903238503591",
+    "firebase_url": "https://asal-gram.firebaseio.com",
+    "project_id": "asal-gram",
+    "storage_bucket": "asal-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903238503591:android:ab009dd3b4231834",
+        "android_client_info": {
+          "package_name": "ir.asalgram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903238503591-sepndmo2i5tjl029qqmd3eskcmoj5dcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlvkJwurAfWWxXfmcWZBDoFpjy6DAtDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
